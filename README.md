@@ -1,5 +1,5 @@
 <!-- Portafolio Innovador en GitHub -->
-<h1 align="center">🚀 Hola, soy Eliezer 👨‍💻</h1>
+<h1 align="center">🚀 Hola, soy Eliezer 👨‍💻(Perfil aun en desarrollo)</h1>
 <p align="center">
 <!--  <img src="https://your-logo-url.com" alt="logo" width="150"/> -->
 </p>
